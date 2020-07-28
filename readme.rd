@@ -39,3 +39,8 @@ Everytime after alteration we have to process/rebuilt css again. after that we c
 It has 3 classes [sans, serif, mono], if we dont specify sans class would be used. To use serif or 
 mono it is required that we mention it in HTML.
 To use any other font family we need to extend it.
+
+?? Using Flex
+To provide flex we add class 'flex' to parent. It places children next to each other (horizontally)
+'justify-evenly' was not mentioned in doc. It spreads space evenly aroud children.
+'Align items' from doc is used to align items/children vertically
