@@ -34,3 +34,8 @@ it will still apply styles under hood with default values ,in extend we can add 
 After adding styles we need to rebuilt css file `npm run build-css`
 
 Everytime after alteration we have to process/rebuilt css again. after that we can use it.
+
+?? Font-family
+It has 3 classes [sans, serif, mono], if we dont specify sans class would be used. To use serif or 
+mono it is required that we mention it in HTML.
+To use any other font family we need to extend it.
